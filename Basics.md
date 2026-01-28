@@ -20,6 +20,29 @@ waybackurls / gau
 Bugbounty tools
 
 ```sh
-pipx install arjun paramspider x8 dalfox xsstrike kxss waymore gauplus uro nuclei interactsh-client jwt-tool authmatrix-lite httpie mitmproxy wappalyzer corscanner corsy ssrfmap nuclei-ssrf jsparser linkfinder subjs whatweb dnsgen unfurl
+arjun
+paramspider
+x8
+dalfox
+xsstrike
+waymore
+gauplus
+uro
+nuclei
+interactsh-client
+jwt-tool
+authmatrix-lite
+httpie
+mitmproxy
+wappalyzer
+corscanner
+corsy
+ssrfmap
+jsparser
+linkfinder
+subjs
+whatweb
+dnsgen
+unfurl
 ```
 

@@ -17,4 +17,9 @@ ffuf
 nuclei
 waybackurls / gau
 ```
+Bugbounty tools
+
+```sh
+pipx install arjun paramspider x8 dalfox xsstrike kxss waymore gauplus uro nuclei interactsh-client jwt-tool authmatrix-lite httpie mitmproxy wappalyzer corscanner corsy ssrfmap nuclei-ssrf jsparser linkfinder subjs whatweb dnsgen unfurl
+```
 
